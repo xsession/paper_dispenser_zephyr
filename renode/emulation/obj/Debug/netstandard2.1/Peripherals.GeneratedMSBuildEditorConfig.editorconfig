@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Peripherals
+build_property.ProjectDir = C:\GIT\zephyr_apps\paper_dispenser_zephyr\renode\emulation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
